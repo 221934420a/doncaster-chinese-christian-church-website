@@ -1,7 +1,7 @@
 # doncaster-chinese-christian-church-webside
  webside for Doncaster Chinese Christian Church Now the website is hosted in zeabur. (traditional Chinese only. I am planning to add multi-language support in the future.)   
-14/12/2024 Update: Start to support multi-language through i18next.
- 24/02/2026 Update: Zeabur Free plan is not working now. Change to deploy on Cloudflare Pages.
+14/12/2024 Update: Start to support multi-language through i18next.   
+24/02/2026 Update: Zeabur Free plan is not working now. Change to deploy on Cloudflare Pages.   
 https://doncaster-chinese-christian-church-website.pages.dev/
 
 
